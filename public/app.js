@@ -2,6 +2,7 @@
 var firebaseConfig = {
   apiKey: "AIzaSyCn_GnGPxldUTaO-rk5emtWAb45M9Q_39Y",
   authDomain: "email-contact-form-b402f.firebaseapp.com",
+  databaseURL: "https://email-contact-form-b402f-default-rtdb.firebaseio.com/",
   projectId: "email-contact-form-b402f",
   storageBucket: "email-contact-form-b402f.appspot.com",
   messagingSenderId: "489631906917",
